@@ -1,7 +1,3 @@
 gogogo
 yes we are go
 hello world
-
-vtoraya popitka
-
-сейчас попробуем откатить с гита
